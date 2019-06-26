@@ -6,3 +6,10 @@
 .active a {
     background: white;
 }
+
+[id] {
+    display: none;
+}
+:target {
+    display: block;
+}
